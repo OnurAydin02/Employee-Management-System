@@ -8167,11 +8167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\07onu\\Desktop\\projects\\Employee Management System\\EmployeesManagementSystem\\EmployeesManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\07onu\\Desktop\\projects\\Employees Management System\\EmployeesManagementSystem\\EmployeesManagementSystem.csproj",
       "projectName": "EmployeesManagementSystem",
-      "projectPath": "C:\\Users\\07onu\\Desktop\\projects\\Employee Management System\\EmployeesManagementSystem\\EmployeesManagementSystem.csproj",
+      "projectPath": "C:\\Users\\07onu\\Desktop\\projects\\Employees Management System\\EmployeesManagementSystem\\EmployeesManagementSystem.csproj",
       "packagesPath": "C:\\Users\\07onu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\07onu\\Desktop\\projects\\Employee Management System\\EmployeesManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\07onu\\Desktop\\projects\\Employees Management System\\EmployeesManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
